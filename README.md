@@ -1,4 +1,4 @@
-# bmi_calculator
+# imc_calculadora
 
 A new Flutter project.
 
